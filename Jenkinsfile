@@ -10,6 +10,7 @@ pipeline {
         stage('test') {
             steps {
                 echo 'This is test stage'
+                echo 'This is coming from Shaik Liyakath'
             }
         }
     }
