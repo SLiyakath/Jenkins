@@ -11,6 +11,7 @@ pipeline {
             steps {
                 echo 'This is test stage'
                 echo 'This is coming from Shaik Liyakath'
+                echo 'Re edited file again for actions'
             }
         }
     }
